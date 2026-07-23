@@ -1,0 +1,201 @@
+index,l2-category
+1000589,finegrained_perception (cross-instance)
+3001714,attribute_reasoning
+1685,attribute_reasoning
+1001299,finegrained_perception (instance-level)
+2000727,finegrained_perception (instance-level)
+1001506,finegrained_perception (instance-level)
+75,coarse_perception
+1001021,logic_reasoning
+3000466,logic_reasoning
+826,coarse_perception
+1001231,coarse_perception
+3001166,relation_reasoning
+2000969,finegrained_perception (instance-level)
+1001352,coarse_perception
+1000879,relation_reasoning
+2001774,logic_reasoning
+1000092,coarse_perception
+1459,finegrained_perception (instance-level)
+1001269,coarse_perception
+1001373,coarse_perception
+2001519,finegrained_perception (instance-level)
+170,attribute_reasoning
+2000352,finegrained_perception (instance-level)
+2001137,finegrained_perception (cross-instance)
+3001370,coarse_perception
+548,coarse_perception
+1001258,coarse_perception
+3000805,coarse_perception
+3001499,finegrained_perception (instance-level)
+1001521,finegrained_perception (instance-level)
+1001546,attribute_reasoning
+2000170,attribute_reasoning
+1000101,coarse_perception
+572,coarse_perception
+2001505,finegrained_perception (instance-level)
+112,finegrained_perception (cross-instance)
+2000646,finegrained_perception (instance-level)
+3001458,finegrained_perception (instance-level)
+3000970,finegrained_perception (instance-level)
+2000097,coarse_perception
+3001058,coarse_perception
+1001941,relation_reasoning
+2001069,coarse_perception
+3000382,attribute_reasoning
+2000349,finegrained_perception (instance-level)
+846,relation_reasoning
+197,attribute_reasoning
+1000254,attribute_reasoning
+3000655,finegrained_perception (instance-level)
+3000951,coarse_perception
+1897,finegrained_perception (cross-instance)
+2001198,logic_reasoning
+1392,attribute_reasoning
+2000968,finegrained_perception (instance-level)
+1451,finegrained_perception (instance-level)
+1001823,coarse_perception
+642,finegrained_perception (instance-level)
+1865,finegrained_perception (cross-instance)
+456,logic_reasoning
+2001097,finegrained_perception (cross-instance)
+2000425,logic_reasoning
+3000099,finegrained_perception (cross-instance)
+304,attribute_reasoning
+2001689,attribute_reasoning
+86,coarse_perception
+2001758,finegrained_perception (instance-level)
+2000961,coarse_perception
+1179,relation_reasoning
+1850,finegrained_perception (cross-instance)
+1000979,finegrained_perception (instance-level)
+1001374,coarse_perception
+3000969,finegrained_perception (instance-level)
+2001737,finegrained_perception (instance-level)
+2001364,coarse_perception
+1000647,finegrained_perception (instance-level)
+2001122,finegrained_perception (cross-instance)
+174,attribute_reasoning
+3001321,finegrained_perception (instance-level)
+1117,finegrained_perception (cross-instance)
+3001911,finegrained_perception (cross-instance)
+930,attribute_reasoning
+3001074,coarse_perception
+1001079,coarse_perception
+3000198,relation_reasoning
+3001171,relation_reasoning
+1000791,coarse_perception
+1000609,finegrained_perception (instance-level)
+2000799,coarse_perception
+1987,relation_reasoning
+3000070,coarse_perception
+3000126,attribute_reasoning
+1466,finegrained_perception (instance-level)
+2000100,finegrained_perception (cross-instance)
+1000199,attribute_reasoning
+947,attribute_reasoning
+3001987,relation_reasoning
+1510,finegrained_perception (instance-level)
+1000399,attribute_reasoning
+3000394,attribute_reasoning
+2000661,finegrained_perception (instance-level)
+2001727,attribute_reasoning
+1691,attribute_reasoning
+1769,finegrained_perception (instance-level)
+2000712,finegrained_perception (instance-level)
+1001843,finegrained_perception (cross-instance)
+1000637,finegrained_perception (instance-level)
+1717,attribute_reasoning
+73,coarse_perception
+1846,finegrained_perception (cross-instance)
+1000664,finegrained_perception (instance-level)
+422,logic_reasoning
+1000261,attribute_reasoning
+1001015,relation_reasoning
+2001321,finegrained_perception (instance-level)
+3000963,coarse_perception
+1001501,finegrained_perception (instance-level)
+2001363,coarse_perception
+1000776,coarse_perception
+676,finegrained_perception (instance-level)
+1000391,attribute_reasoning
+3000075,coarse_perception
+118,finegrained_perception (cross-instance)
+3000506,finegrained_perception (instance-level)
+1000969,finegrained_perception (instance-level)
+3000932,attribute_reasoning
+3000941,attribute_reasoning
+1155,relation_reasoning
+2000675,finegrained_perception (instance-level)
+1000416,coarse_perception
+523,coarse_perception
+1000410,logic_reasoning
+3000825,coarse_perception
+3000491,finegrained_perception (cross-instance)
+2000692,finegrained_perception (instance-level)
+1000050,coarse_perception
+3000987,finegrained_perception (instance-level)
+3001691,attribute_reasoning
+1889,finegrained_perception (cross-instance)
+1000054,coarse_perception
+1000977,finegrained_perception (instance-level)
+3000869,relation_reasoning
+2000198,relation_reasoning
+1000870,relation_reasoning
+3001057,coarse_perception
+1591,coarse_perception
+2001350,coarse_perception
+1000155,attribute_reasoning
+1000896,finegrained_perception (cross-instance)
+3000918,finegrained_perception (cross-instance)
+1001630,coarse_perception
+3001774,logic_reasoning
+1001181,relation_reasoning
+3000114,coarse_perception
+205,attribute_reasoning
+3001398,attribute_reasoning
+2001332,coarse_perception
+2000457,logic_reasoning
+3000673,finegrained_perception (instance-level)
+1420,attribute_reasoning
+3001828,coarse_perception
+2001229,logic_reasoning
+1447,finegrained_perception (instance-level)
+1000424,logic_reasoning
+3001985,relation_reasoning
+2001075,coarse_perception
+2000067,coarse_perception
+3001858,finegrained_perception (cross-instance)
+556,coarse_perception
+2000879,relation_reasoning
+1000490,logic_reasoning
+1809,coarse_perception
+2000088,coarse_perception
+2001362,coarse_perception
+217,attribute_reasoning
+1000038,coarse_perception
+2000633,finegrained_perception (instance-level)
+1975,relation_reasoning
+3001290,finegrained_perception (instance-level)
+3000523,coarse_perception
+3001472,finegrained_perception (instance-level)
+1153,relation_reasoning
+1000200,attribute_reasoning
+1575,coarse_perception
+2000659,finegrained_perception (instance-level)
+638,finegrained_perception (instance-level)
+1320,finegrained_perception (instance-level)
+2000594,finegrained_perception (cross-instance)
+3001881,finegrained_perception (cross-instance)
+3000621,finegrained_perception (instance-level)
+2001333,coarse_perception
+2001793,coarse_perception
+3000727,finegrained_perception (instance-level)
+1001952,relation_reasoning
+2001564,attribute_reasoning
+887,relation_reasoning
+2001369,coarse_perception
+908,finegrained_perception (cross-instance)
+1388,attribute_reasoning
+3000595,finegrained_perception (cross-instance)
+1000407,logic_reasoning

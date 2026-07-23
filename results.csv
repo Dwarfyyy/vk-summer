@@ -1,0 +1,4 @@
+model,GQA-ru_EM,MMBench-ru_Acc
+LLaVA-Gemma-2B (baseline),0.475,0.655
+Qwen2-VL-2B (zero-shot),0.205,0.38
+Qwen2-VL-2B + LoRA,0.295,0.06
