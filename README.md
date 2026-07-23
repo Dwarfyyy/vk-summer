@@ -96,7 +96,7 @@
 ```
 vk/
 ├── vlm_ru_vqa_lora.ipynb        — код проекта (Google Colab, GPU T4)
-├── REPORT.md                    — этот отчёт
+├── README.md                    — этот отчёт
 ├── results.csv                  — сводная таблица метрик (3 модели × 2 бенчмарка)
 ├── results_summary.png          — итоговый график (вставлен выше)
 ├── predictions/                 — сырые ответы моделей по каждому вопросу
